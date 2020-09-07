@@ -1,5 +1,5 @@
 # nice marmot
-hydrate before you diedrate!
+This is not 'Nam. This is bowling. There are rules.
 ## That rug really tied the room together,
 ### DID IT NOT
 
