@@ -4,3 +4,5 @@ This is not 'Nam. This is bowling. There are rules.
 ### DID IT NOT
 
 life does not stop and start at your convenience, you miserable piece of shtuff
+
+![This is my absolute favourite painting](personal-remote-repo/favoriteDali.jpeg)
