@@ -4,4 +4,5 @@ This is not 'Nam. This is bowling. There are rules.
 ### DID IT NOT
 
 life does not stop and start at your convenience, you miserable piece of shtuff
+
 ![This is my child, his name is Mort](images/mortontree.jpeg)
