@@ -5,4 +5,4 @@ This is not 'Nam. This is bowling. There are rules.
 
 life does not stop and start at your convenience, you miserable piece of shtuff
 
-![This is my child, his name is Mort](personal-remote-repo/docs/images/mortontree.jpeg)
+![This is my child, his name is Mort](am0eba-byte/personal-remote-repo/docs/images/mortontree.jpeg)
