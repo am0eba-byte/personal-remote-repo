@@ -1,7 +1,7 @@
 # nice marmot
-This is not 'Nam. This is bowling. There are rules.
+This is not 'Nam. This is coding. There are rules.
 ## That rug really tied the room together,
-### DID IT NOT
+# DID IT NOT
 
 .[This is my very professional and extensive Digital Portfolio](portfolio.md)
 
