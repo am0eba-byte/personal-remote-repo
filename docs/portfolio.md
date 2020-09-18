@@ -14,6 +14,8 @@ My very first (and very obviously beginner-quality) Adobe Premiere Pro film proj
 
 Title: *Small Town Eyes*
 
+https://youtu.be/W07E3NOc7pQ
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/W07E3NOc7pQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
