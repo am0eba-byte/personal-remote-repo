@@ -21,4 +21,8 @@ https://youtu.be/W07E3NOc7pQ
 </figure>
 
 
-[Here's my extensively developed website](index.md)
+[Click here to go the first page of my GitFolio](index.md)
+
+### Other Websites
+
+[Here is my other WebFolio on Wordpress](https://sites.psu.edu/mborgiadigportfolio/)
