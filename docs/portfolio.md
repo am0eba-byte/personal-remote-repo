@@ -2,9 +2,9 @@
 
 Hello my darlings. Since you didn't ask, here is a complete and defined list of things I am good at:
 
-1. Fine Dining
+* Fine Dining
 
-1. Breathing
+* Breathing
 
 ## Okay, enough spongebob quotes
 
