@@ -10,7 +10,7 @@ Hello my darlings. Since you didn't ask, here is a complete and defined list of 
 
 # My Digital Projects (so far)
 
-My very first (and very obviously beginner-quality) Adobe Premiere Pro film project:
+My very first (and very obviously beginner-quality) **Adobe Premiere Pro** film project:
 
 Title: *Small Town Eyes*
 
