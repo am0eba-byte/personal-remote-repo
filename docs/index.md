@@ -1,5 +1,5 @@
 # nice marmot
-This is not 'Nam. This is coding. There are rules.
+This is not 'Nam. This is ~~bowling~~ coding. There are rules.
 ## That rug really tied the room together,
 # DID IT NOT
 
