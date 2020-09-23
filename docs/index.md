@@ -1,8 +1,6 @@
-# nice marmot
-This is not 'Nam. This is ~~bowling~~ coding. There are rules.
-## That rug really tied the room together,
-# DID IT NOT
+# Digital Git-Portfolio
+Salutations! They call me Mia. Welcome to the humble home page of my personal website.
 
-[This is my very professional and extensive Digital Portfolio](portfolio.md)
+[Digital Projects I've done so far](portfolio.md)
 
 ![This is my child, his name is Mort](images/mortontree.jpg) *This is my child, his name is Mort*
