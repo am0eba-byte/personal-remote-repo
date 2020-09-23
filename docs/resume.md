@@ -27,7 +27,7 @@ Minor in <i>Creative Writing</i>
 </ul>
 &nbsp;
 <h2><b>EXPERIENCE</b></h2>
-<h1><b>Arundel Wine Cellars &amp; Brewing Co., </b>North East,Pa — <i>Kitchen Staff/Bar Staff</i></h1>
+<h3><b>Arundel Wine Cellars &amp; Brewing Co., </b>North East,Pa — <i>Kitchen Staff/Bar Staff</i></h3>
 <i>May 2019 - PRESENT</i>
 
 Responsibilities include:
@@ -41,7 +41,7 @@ Responsibilities include:
  	<li>Informing and selling customers on extensive wine varieties</li>
  	<li>Providing superb customer service</li>
 </ul>
-<h2><b>Errands &amp; More, </b>North East, PA — <i>Co-Founder/Associate</i></h2>
+<h3><b>Errands &amp; More, </b>North East, PA — <i>Co-Founder/Associate</i></h3>
 <i>March 2018 - PRESENT</i>
 
 This is my mother’s self-run cleaning, maintenance and senior assistance business. I help my mother with running her business in various ways.
