@@ -2,6 +2,10 @@
 <p style="text-align: right;">Erie, PA</p>
 <p style="text-align: right;">Business email: mqb5995@psu.edu</p>
 
+<h5><b> Site Navigation:</b></h5>
+ <li> [Home Page](index.md) </li>
+ <li> [Digital Projects](portfolio.md) </li>
+
 <h2><b>EDUCATION</b></h2>
 <h3><b>The Pennsylvania State University, </b>Erie, Pa — <i>Digital Arts, Media, and Technology B.A.</i></h3>
 <i>August 2018 - PRESENT</i>
