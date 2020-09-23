@@ -9,6 +9,7 @@
 <h2><b>EDUCATION</b></h2>
 <h3><b>The Pennsylvania State University, </b>Erie, Pa — <i>Digital Arts, Media, and Technology B.A.</i></h3>
 <i>August 2018 - PRESENT</i>
+
 Expected Graduation: June 2022
 
 Minor in <i>Creative Writing</i>
