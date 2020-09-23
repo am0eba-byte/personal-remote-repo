@@ -22,6 +22,7 @@ https://youtu.be/W07E3NOc7pQ
 
 
 [Click here to go the first page of my GitFolio](index.md)
+[Or click here to view my resume](resume.md)
 
 ### Other Websites
 
