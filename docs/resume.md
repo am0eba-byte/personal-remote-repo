@@ -3,8 +3,8 @@
 <p style="text-align: right;">Business email: mqb5995@psu.edu</p>
 
 <h5><b> Site Navigation:</b></h5>
- Home Page: https://am0eba-byte.github.io/personal-remote-repo/ 
- Digital Projects: https://am0eba-byte.github.io/personal-remote-repo/portfolio.html
+ [Home Page:](index.md)
+ [Digital Projects:](portfolio.md) 
 
 <h2><b>EDUCATION</b></h2>
 <h3><b>The Pennsylvania State University, </b>Erie, Pa — <i>Digital Arts, Media, and Technology B.A.</i></h3>
