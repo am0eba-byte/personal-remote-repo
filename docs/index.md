@@ -1,5 +1,5 @@
 # Mia's Digital Git-Portfolio
-### * Salutations! * Welcome to the humble home page of my personal website.
+### <i> Salutations! </i>  Welcome to the humble home page of my personal website.
 
 ## A little about me:
 I am currently a Digital Media, Arts, and Technology major at Penn State. Although I am relatively new to film production and photoshop software, capturing images and video and transforming them into art is one of my passions.
