@@ -1,12 +1,6 @@
-# Mia's Digital Portfolio
-
-Hello my darlings. Since you didn't ask, here is a complete and defined list of things I am good at:
-
-* Fine Dining
-
-* Breathing
-
-## Okay, enough spongebob quotes
+<b>Site Navigation:</b>
+[Home Page](index.md) |
+[Resume](resume.md)
 
 # My Digital Projects (so far)
 
@@ -21,8 +15,6 @@ https://youtu.be/W07E3NOc7pQ
 </figure>
 
 
-[Click here to go the first page of my GitFolio](index.md)
-[Or click here to view my resume](resume.md)
 
 ### Other Websites
 
