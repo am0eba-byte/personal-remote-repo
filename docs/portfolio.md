@@ -1,6 +1,7 @@
 <b>Site Navigation:</b>
 [Home Page](index.md) |
-[Resume](resume.md)
+[Resume](resume.md) |
+[Web Reflection](relfection.md)
 
 # My Digital Projects (so far)
 
