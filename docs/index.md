@@ -1,8 +1,6 @@
 # Mia's Digital Git-Portfolio
 ### <i> Salutations! </i>  Welcome to the humble home page of my personal website.
 
-Until my Dinky buttons cooperate with me...
-
 **Navigate my silly little site:**
 
 * [my Digital Projects page](portfolio.md)
