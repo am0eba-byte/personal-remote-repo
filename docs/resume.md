@@ -4,7 +4,7 @@
 
 <h5><b> Site Navigation:</b></h5>
  <a href="https://am0eba-byte.github.io/personal-remote-repo/">Home Page</a> | <a href="https://am0eba-byte.github.io/personal-remote-repo/portfolio.html">Digital Projects</a>
-  <a href="https://am0eba-byte.github.io/personal-remote-repo/reflection.html">Web Reflection</a>
+ | <a href="https://am0eba-byte.github.io/personal-remote-repo/reflection.html">Web Reflection</a>
 
 <h2><b>EDUCATION</b></h2>
 <h3><b>The Pennsylvania State University, </b>Erie, Pa — <i>Digital Arts, Media, and Technology B.A.</i></h3>
