@@ -6,7 +6,6 @@ Until my Dinky buttons cooperate with me...
 **Navigate my silly little site:**
 
 * [my Digital Projects page](portfolio.md)
-
 * [my Resume](resume.md)
 * [my Web Development Reflection/Comparison](reflection.md)
 
