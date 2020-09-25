@@ -3,15 +3,12 @@
 **Site Navigation:** [Home Page](index.md) | [Digital Projects](portfolio.md) | [Resume](resume.md)
 
   To begin, I'll be honest - I never imagined myself developing websites. Until quite recently, 
-I've thought web development was for super-coders and extremely quick-eyed and tech-savvy people.
+I thought web development was for super-coders and extremely quick-eyed and tech-savvy people.
 Hence, I am amazed at how quickly I've developed two semi-developed and multi-faceted websites, to say the very least!
 This learning experience did not come without its challenges. I've never really been much of a tech person, especially for someone my age.
 
   It took some exasperated sighing and intense Googling to figure out the ins and outs, and all the crazy little symbols that somehow magically
-translate into something totally different. This is especially the case with GitHub - don't get me wrong, I love how flexible Git allows you to be
-with the formats and organization of your web pages. It's just taking me a bit more brainwork to get the hang of, since GitHub Pages relies heavily
-on markdown coding - which I have never done until about 2 months ago. For that reason, I'd say that Penn State's Wordpress was easier for me to
-figure out and mend to fit how I wanted my webpages to look, especially when it comes to the Menu bars and external media and links and whatnot. Wordpress
+translate into something totally different (some call this "coding"). This is especially the case with GitHub - don't get me wrong, I love how flexible Git is with allowing you to mess with the formats and organization of your web pages. It's just taking me a bit more brainwork to get the hang of, since GitHub Pages relies heavily on coding - which I have never done until about 2 months ago. For that reason, I'd say that Penn State's Wordpress was easier for me to figure out and mend to fit how I wanted my webpages to look, especially when it comes to the Menu bars and external media and links and whatnot. Wordpress
 wasn't straight-forward in the slightest, but it was much easier for me to get things to work without having to Google it and put my wavering trust in
 some person on the internet. 
 
@@ -25,3 +22,5 @@ much more freedom on that platform to manipulate the layout of your pages as you
   Now that I've dipped a toe in the pond of web development, I've made it a personal goal to become more familiar with both markdown and HTML coding, 
 so that I can make this website and future GitHub pages of mine super-cool and relfect exactly what I wish to portray to the vast wide world of the
 web. (: 
+
+[Click on these blue words to nyoom to this essay on my Wordpress](https://sites.psu.edu/mborgiadigportfolio/relfection/)
