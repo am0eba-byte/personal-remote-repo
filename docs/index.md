@@ -24,22 +24,22 @@ One day, I hope to make contributions in some artistic or creative form to envir
 
 ### Some photos that capture a little bit of what I'm all about:
 
-![This is my child, his name is Mort](images/mortontree.jpg=300) *This is my child, his name is Mort*
+![This is my child, his name is Mort](images/mortontree.jpeg) *This is my child, his name is Mort*
 
 
-  ![Bella by lake](images/lakepupper.JPEG=300) *This is my other child, her name is Bella*
+  ![Bella by lake](images/lakepupper.JPEG) *This is my other child, her name is Bella*
 
 
-  ![Favorite Dali Painting](images/favoriteDali.jpeg=300) *My favorite painting - Dream Caused by the flight of a Bee a second before Waking, Dali*
+  ![Favorite Dali Painting](images/favoriteDali.jpeg) *My favorite painting - Dream Caused by the flight of a Bee a second before Waking, Dali*
 
 
-  ![Chandler by Ice](images/lakelooker=300) *My hunny gazing at the sky in thin ice*
+  ![Chandler by Ice](images/lakelooker.JPEG) *My hunny gazing at the sky in thin ice*
 
 
-  ![Twiddlin Strings](images/meguitar2.JPEG=300) *Me twiddlin on strings with Bella acting nonchalant*
+  ![Twiddlin Strings](images/meguitar2.JPEG) *Me twiddlin on strings with Bella acting nonchalant*
  
 
-  ![Tuesdays with the Ocean](images/paradisewithmorrie=300) *Reading Mitch Albom in South Carolina*
+  ![Tuesdays with the Ocean](images/paradisewithmorrie.JPEG) *Reading Mitch Albom in South Carolina*
 
 
-  ![Beautiful Verdant Boi](images/treelookinup2.JPEG=300) *A beautiful verdant glory I captured*
+  ![Beautiful Verdant Boi](images/treelookinup2.JPEG) *A beautiful verdant glory I captured*
