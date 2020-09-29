@@ -19,27 +19,27 @@ One day, I hope to make contributions in some artistic or creative form to envir
 <i> –Mia Borgia </i>
 
 
-  ![Professional Profile](images/profile2.JPEG=250)
+  ![Professional Profile](images/profile2.JPG=250)
 
 
 ### Some photos that capture a little bit of what I'm all about:
 
-![This is my child, his name is Mort](images/mortontree.jpeg) *This is my child, his name is Mort*
+![This is my child, his name is Mort](images/mortontree.jpg) *This is my child, his name is Mort*
 
 
-  ![Bella by lake](images/lakepupper.JPEG) *This is my other child, her name is Bella*
+  ![Bella by lake](images/lakepupper.JPG) *This is my other child, her name is Bella*
 
 
-  ![Favorite Dali Painting](images/favoriteDali.jpeg) *My favorite painting - Dream Caused by the flight of a Bee a second before Waking, Dali*
+  ![Favorite Dali Painting](images/favoriteDali.jpg) *My favorite painting - Dream Caused by the flight of a Bee a second before Waking, Dali*
 
 
-  ![Chandler by Ice](images/lakelooker.JPEG) *My hunny gazing at the sky in thin ice*
+  ![Chandler by Ice](images/lakelooker.JPG) *My hunny gazing at the sky in thin ice*
 
 
-  ![Twiddlin Strings](images/meguitar2.JPEG) *Me twiddlin on strings with Bella acting nonchalant*
+  ![Twiddlin Strings](images/meguitar2.JPG) *Me twiddlin on strings with Bella acting nonchalant*
  
 
-  ![Tuesdays with the Ocean](images/paradisewithmorrie.JPEG) *Reading Mitch Albom in South Carolina*
+  ![Tuesdays with the Ocean](images/paradisewithmorrie.JPG) *Reading Mitch Albom in South Carolina*
 
 
-  ![Beautiful Verdant Boi](images/treelookinup2.JPEG) *A beautiful verdant glory I captured*
+  ![Beautiful Verdant Boi](images/treelookinup2.JPG) *A beautiful verdant glory I captured*
