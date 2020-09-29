@@ -19,7 +19,7 @@ One day, I hope to make contributions in some artistic or creative form to envir
 <i> –Mia Borgia </i>
 
 
-<img src=“images/profile2.JPG” alt=“ProfessionalProfile” width=“100”/>
+![ProfessionalProfile](images/profile2.JPG)
 
 
 ### Some photos that capture a little bit of what I'm all about:
@@ -29,16 +29,20 @@ One day, I hope to make contributions in some artistic or creative form to envir
 *This is my child, his name is Mort*
 
 
-<img src=“images/lakepupper.JPG” alt=“BellabyLake” width=“100”/> *This is my other child, her name is Bella*
+![Bella by Lake](images/lakepupper.JPG) *This is my other child, her name is Bella*
 
 
-![Dali](images/favoriteDali.jpg) *My favorite painting - Dream Caused by the flight of a Bee a second before Waking, Dali*
+![Dali](images/favoriteDali.jpg)
+
+*My favorite painting - Dream Caused by the flight of a Bee a second before Waking, Dali*
 
 
   ![Chandler by Ice](images/lakelooker.JPG) *My hunny gazing at the sky in thin ice*
 
 
-  ![Twiddlin Strings](images/meguitar2.JPG) *Me twiddlin on strings with Bella acting nonchalant*
+  ![Twiddlin Strings](images/meguitar2.JPG) 
+  
+  *Me twiddlin on strings with Bella acting nonchalant*
  
 
   ![Tuesdays with the Ocean](images/paradisewithmorrie.JPG) *Reading Mitch Albom in South Carolina*
