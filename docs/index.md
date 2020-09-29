@@ -19,18 +19,20 @@ One day, I hope to make contributions in some artistic or creative form to envir
 <i> –Mia Borgia </i>
 
 
-  ![Professional Profile](images/profile2.JPG=250)
+<img src=“images/profile2.JPG” alt=“ProfessionalProfile” width=“100”/>
 
 
 ### Some photos that capture a little bit of what I'm all about:
 
-![This is my child, his name is Mort](images/mortontree.jpg) *This is my child, his name is Mort*
+![This is my child, his name is Mort](images/mortontree.jpg) 
+
+*This is my child, his name is Mort*
 
 
-  ![Bella by lake](images/lakepupper.JPG) *This is my other child, her name is Bella*
+<img src=“images/lakepupper.JPG” alt=“BellabyLake” width=“100”/> *This is my other child, her name is Bella*
 
 
-  ![Favorite Dali Painting](images/favoriteDali.jpg) *My favorite painting - Dream Caused by the flight of a Bee a second before Waking, Dali*
+![Dali](images/favoriteDali.jpg) *My favorite painting - Dream Caused by the flight of a Bee a second before Waking, Dali*
 
 
   ![Chandler by Ice](images/lakelooker.JPG) *My hunny gazing at the sky in thin ice*
