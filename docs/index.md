@@ -6,6 +6,7 @@
 * [my Digital Projects page](portfolio.md)
 * [my Resume](resume.md)
 * [my Web Development Reflection/Comparison](reflection.md)
+* [Corpus Analysis](corpusanalysis.md)
 
 ## A little about me:
 I am currently a Digital Media, Arts, and Technology major at Penn State. Although I am relatively new to film production and photoshop software, capturing images and video and transforming them into art is one of my passions.
