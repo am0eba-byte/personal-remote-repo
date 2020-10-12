@@ -1,9 +1,95 @@
 # Corpus Analysis Comparisons and Reflection
 
-For DIGIT 100's Corpus Analysis assignment, I decided to compare all of my Hypothes.is annotations with the entire class's annotations using Voyant Tools
-and Antconc. I had to do some clean-up of both of the text files in oXygen so that all the hyperlink/image location garbeldegook wouldn't make my word
-frequency comparisons all wonky. I decided to run each file through Voyant first, since I think Voyant makes the data super easy to read and understand
-(and it just straight-up looks nicer than Antconc!). 
+For DIGIT 100's Corpus Analysis assignment, I decided to compare Alice in Wonderland by Lewis Carrol and The Wizard of Oz by L. Frank Baum using Voyant Tools and Antconc. I chose these two childrens' novels because 1. Nostalgia and 2. The shapes of their stories bear some
+similarities, and I thought it might be neat to see if you could use Voyant to spot the most frequent characters, and Antconc to map
+their chonological appearances in the concordance plot.
+
+I had to do some clean-up of both of the text files in oXygen so that all the irrelevant garbeldegook wouldn't make my word frequency comparisons all wonky. I decided to run each file through Voyant first, since I think Voyant makes the data super easy to read (and it just straight-up looks prettier than Antconc!). 
+
+### Voyant Data Comparison
+![AliceinWonderlandData](images/corpus/AliceWonderlandVoyantData.png)
+*Alice in Wonderland*
+![WizardofOzData](images/corpus/VoyantOzData.png)
+*Wizard of Oz*
+
+### Voyant Word Cloud Comparison
+![AliceinWonderlandCloud](images/corpus/alicewonderlandCloud.png)
+*Alice in Wonderland*
+![WizardofOzCloud](images/corpus/VoyantOzCloud.png)
+*Wizard of Oz*
+
+In observing the data and word clouds that Voyant fabricated out of each of the texts, immediately there's an obvious pattern:
+the female lead character's name, and "said". This is not surprising, as both novels frequently refer to their lead characters as they
+go about their journey, and both novels have a lot of dialogue between characters. 
+
+A bit surprisingly though, the frequency rank of those two words differ between the
+texts; "said" occurs a bit more frequently than "alice," while the use of "said" is a bit less frequent than "dorothy". This could be for
+two reasons, I'd guess: 1. In *Alice in Wonderland*, it was more common for dialogue to be used than reference to Alice, and 2. Both the
+narrator and the characters in *The Wizard of Oz* said "Dorothy!" a whole lot more often than those in *Alice in Wonderland*, so the use
+of "said" comes in a close second. 
+
+I also noticed that the secondary main characters' names appear to be much more frequent in proportion to the lead character's name in
+*The Wizard of Oz,* while Alice's creature friends' names appear much less frequent. You can see, "scarecrow" and "woodman" come in close
+third in word size within the *Oz* cloud, whilst "gryphon," "dormouse," and "hatter" are significantly less frequent in the *Wonderland*
+cloud. I'm guessing this is due to the fact that Dorothy's yellow brick road companions stuck with her in the storyline from the time
+they were introduced until she wakes from her dream - Alice's companions tended to pop in and out occasionally throughout her Wonderland
+adventure. 
+
+### Antconc N-Gram Comparison
+
+![WonderlandAntconc](images/corpus/alice_3gram_antconc.png)
+
+*Alice in Wonderland*
+
+![OzAntconc](images/corpus/Antconc_Oz_3gram.png)
+
+*Wizard of Oz*
+
+Surprisingly, both of these 3-gram data sets do not feature a single use of the female lead characters' names - instead, both show a very
+high frequency of secondary recurring character dialogue. 
+
+In Alice in Wonderland, there was one major creative difference I could spot by comparing both the Antconc N-Grams and the Voyant Clouds
+of Carrol's and Baum's novels: Carrol tended to include Alice's internal dialogue and personal thoughts a whole lot more frequently than
+Baum included Dorothy's internal dialogue. I could see this because the word "thought" is quite large and thus frequent in the *Wonderland* Voyant cloud, and also the term "she said to herself" is quite high on the frequency ranking list in the 3-gram data - whereas I couldn't find much evidence of Dorothy's thought processes in either of the *Oz*'s data collections.
+
+I could also tell by looking at the novels' 3-gram clusters that *The Wizard of Oz* puts a lot more emphasis on the story's antagonist
+than *Alice in Wonderland*. You can see that "the wicked witch" is the 2nd most frequent 3-gram cluster, while the most frequent terms referring to the evil Queen in *Wonderland* only occurs 12 times, and it is far less frequent than some other terms. 
+
+I also used Antconc's Concordance Plot tab to find some interesting storyline comparisons between the two novels:
+
+### Antconc Concordance Plot Comparisons
+The two most common clusters of both stories had something to do with secondary characters that interacted with the lead characters along
+their journeys; "the Tin Woodman" and "the Mock Turtle."
+![MostFreqClusters](images/corpus/most_freq_clusters.png)
+
+Here are those clusters concordance plots:
+![MostFreqClustPlots](images/corpus/most_freq_cluster_plot.png)
+
+
+
+
+
+
+
+
+
+- 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
 
 ### My Annotations' Voyant Word Cloud and Data
 
