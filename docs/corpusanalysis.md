@@ -4,6 +4,11 @@ For DIGIT 100's Corpus Analysis assignment, I decided to compare Alice in Wonder
 similarities, and I thought it might be neat to see if you could use Voyant to spot the most frequent characters, and Antconc to map
 their chonological appearances in the concordance plot.
 
+I took the full .txt files of the novels from the **Project Gutenberg** website:
+ - [Alice in Wonderland](https://www.gutenberg.org/files/11/11-0.txt)
+ - [The Wonderful Wizard of Oz](http://www.gutenberg.org/cache/epub/55/pg55.txt)
+
+
 I had to do some clean-up of both of the text files in oXygen so that all the irrelevant garbeldegook wouldn't make my word frequency comparisons all wonky. I decided to run each file through Voyant first, since I think Voyant makes the data super easy to read (and it just straight-up looks prettier than Antconc!). 
 
 ### Voyant Data Comparison
