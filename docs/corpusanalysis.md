@@ -64,12 +64,13 @@ their journeys; "the Tin Woodman" and "the Mock Turtle."
 
 Here are those clusters concordance plots:
 ![MostFreqClustPlots](images/corpus/most_freq_cluster_plot.png)
+RIGHT: **Oz** LEFT: **Wonderland**
 
 Very interestingly, the appearance of "the Tin Woodman" appears much more evenly and scattered throughout the whole story of *Oz* as opposed to the interactions with "The Mock Turtle" - The Mock Turtle seems to interact with Alice and her story in a shorter period of time within the story compared to the Tin Woodman, but in the time that the Turtle interacts with Alice, apparantly they're talking to/about each other a lot! These Concordance Plot comparisons showed very interesting differences in secondary character referencing, showing how similar yet subtly different these two stories are built.
 
 An even more interesting Concordance Plot to compare was that of the Antagonists' names:
 ![AntagConcordPlots](images/corpus/antagonists_concordance_plots.png)
-RIGHT SIDE: **wicked witch** LEFT SIDE: **the Queen**
+LEFT SIDE: **wicked witch** RIGHT SIDE: **the Queen**
 
 
 
