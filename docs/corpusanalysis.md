@@ -1,6 +1,6 @@
 # Corpus Analysis Comparisons and Reflection
 
-For DIGIT 100's Corpus Analysis assignment, I decided to compare Alice in Wonderland by Lewis Carrol and The Wizard of Oz by L. Frank Baum using Voyant Tools and Antconc. I chose these two childrens' novels because 1. Nostalgia and 2. The shapes of their stories bear some
+For DIGIT 100's Corpus Analysis assignment, I decided to compare Alice in Wonderland by Lewis Carrol and The Wonderful Wizard of Oz by L. Frank Baum using Voyant Tools and Antconc. I chose these two childrens' novels because 1. Nostalgia and 2. The shapes of their stories bear some
 similarities, and I thought it might be neat to see if you could use Voyant to spot the most frequent characters, and Antconc to map
 their chonological appearances in the concordance plot.
 
