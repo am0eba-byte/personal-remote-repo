@@ -73,9 +73,11 @@ RIGHT: **Oz** LEFT: **Wonderland**
 
 Very interestingly, the appearance of "the Tin Woodman" appears much more evenly and scattered throughout the whole story of *Oz* as opposed to the interactions with "The Mock Turtle" - The Mock Turtle seems to interact with Alice and her story in a shorter period of time within the story compared to the Tin Woodman, but in the time that the Turtle interacts with Alice, apparantly they're talking to/about each other a lot! These Concordance Plot comparisons showed very interesting differences in secondary character referencing, showing how similar yet subtly different these two stories are built.
 
-An even more interesting Concordance Plot to compare was that of the Antagonists' names:
+An even more interesting Concordance Plot to compare was that of the Antagonists' name usage and frequency:
 ![AntagConcordPlots](images/corpus/antagonists_concordance_plots.png)
 LEFT SIDE: **wicked witch** RIGHT SIDE: **the Queen**
+
+As you can see, the Wicked Witch of the West is referenced almost the same about as the Tin Woodman in *The Wizard of Oz,* and she is mentioned throughout most of the time frame of the story. She is a prevelant driving force and overarching figure in the novel, whereas the most comparable antagonist in *Alice in Wonderland,* the Queen, is mentioned relatively less often and in very concentrated stretches of time within the plot. The Queen's antagonism contributed much less to propelling the plot of Carrol's story as opposed to the similar antagonist in Baum's story.
 
 
 
