@@ -23,4 +23,4 @@ much more freedom on that platform to manipulate the layout of your pages as you
 so that I can make this website and future GitHub pages of mine super-cool and relfect exactly what I wish to portray to the vast wide world of the
 web. (: 
 
-[Click on these blue words to nyoom to this essay on my Wordpress](https://sites.psu.edu/mborgiadigportfolio/relfection/)
+[Click on these red words to nyoom to this essay on my Wordpress](https://sites.psu.edu/mborgiadigportfolio/relfection/)
