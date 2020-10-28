@@ -32,7 +32,16 @@ Produced for *Art 168 Digital Medium* in Fall 2020
   
 **Description:** This was a beginner introduction project to the wondrous flexibility and manipulative effects of Adobe After Effects, with Photoshop used as an asset preparing tool. This project aims to display the basic tools and variety of awesome functions of photo editing and manipulation. I animated the Dali elephants myself using After Effect's puppet pin tool, and the other still assets (The video of the flamingo walking, the images of Mars and Jupiter, and Dali's Swan) were manipulated using other distortion and color effects. The moving jellyfish graphic was implimented using After Effect's CC Particle Systems II tool, and the background image of the beach is a photo I took on my only vacation to South Carolina's gorgeous Fripp Island in 2015. I sliced that photo into manipulatable foreground/middle ground/background layers which I imported into After Effects. That trip to Fripp was a surreal experience for me, in part because it was the one and only time I spent a prolonged period outside of Pennsylavnia, and also because it occurred in a strange time in my life - I used this image not only because it is high-quality, but because it invokes nostalgia of the dream-like state I was in while I was there. I wanted to amplify that feeling within this image with characters one of the most dream-like artists I know of, aside from M.C. Escher - Salvador Dali. 
 
+## TimeMapper
 
-### Other Websites
+A little project on the life of Jack Parsons, using Google Sheets and TimeMapper.
+
+Produced for *DIGIT 100 Intro to Digital Humanities* in Fall 2020.
+
+<figure>
+<iframe src="http://timemapper.okfnlabs.org/anon/801vn2-timemapstarter-digit100?embed=1" frameborder="0" style="border: none;" width="100%" height="780;"></iframe>
+</figure>
+
+## Other Websites
 
 [Here is my other WebFolio on Wordpress](https://sites.psu.edu/mborgiadigportfolio/)
