@@ -38,9 +38,9 @@ A little project on the life of Jack Parsons, using Google Sheets and TimeMapper
 
 Produced for *DIGIT 100 Intro to Digital Humanities* in Fall 2020.
 
-<figure>
+
 <iframe src="http://timemapper.okfnlabs.org/anon/801vn2-timemapstarter-digit100?embed=1" frameborder="0" style="border: none;" width="100%" height="780;"></iframe>
-</figure>
+
 
 ## Other Websites
 
