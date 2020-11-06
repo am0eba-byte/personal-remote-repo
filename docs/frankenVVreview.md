@@ -1,5 +1,9 @@
 #Frankenstein Variorum Review
 
+This page is a review/critique of the (Digital Frankenstein Variorum)[https://frankensteinvariorum.github.io/viewer/], which collects editions of Mary Shelley's novel Frankenstein and compares moments of change between each edition for users to experience.
+
+###Interesting Discovery Moments
+
 Reading the 10 sections using the 1818 edition of Frankenstein as the default, I found it fascinating and extremely 
 curious how Mary Shelley changed entire narratives of characters between this edition and the 1831 & Thomas editions. 
 There is one such passage in section 6 that, in the 1818 version, is comprised of only 3 sentences. In that small passage, 
@@ -36,5 +40,10 @@ she struck through has been omitted.
 
 
 *insert screenshot*
+
+
+###User Experience Review
+
+
 
 
