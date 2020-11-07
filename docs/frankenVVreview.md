@@ -1,6 +1,6 @@
 # Frankenstein Variorum Review
 
-This page is a review/critique of the (Digital Frankenstein Variorum)[https://frankensteinvariorum.github.io/viewer/], which collects editions of Mary Shelley's novel Frankenstein and compares moments of change between each edition for users to experience.
+This page is a review/critique of the [Digital Frankenstein Variorum](https://frankensteinvariorum.github.io/viewer/), which collects editions of Mary Shelley's novel Frankenstein and compares moments of change between each edition for users to experience.
 
 ### Interesting Discovery Moments
 
