@@ -26,6 +26,8 @@ the understanding of the narrator’s deep love he has for his parents and his s
 and sister’s pasts, Mary Shelley paints a much more vivid picture of the connections between these characters, and adds a more powerful bond between reader and character, 
 allowing readers to envision these characters and their pasts in much deeper detail – like she did with the passage I mentioned above with the stranger on the boat.
 
+![When My Father...](images/frankenVVscreenshots/when-my-father_1831.png)
+
 There are some smaller yet still interesting changes that change the tone and the way information is perceived by the reader – one being a passage in section 3 where Robert 
 is writing to his sister about a seaman on board with him, who once tried to convince his ex’s father to let her be with her desired lover instead. Robert tells his sister 
 in the letter that while the man’s actions were noble, he isn’t educated much, and doesn’t have many inclinations beyond being a sailor. In the 1818, 1823, and Thomas editions, 
