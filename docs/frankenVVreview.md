@@ -42,7 +42,7 @@ tone changes like this as well.
 It seems, from the Thomas Copy edition to the 1831 edition, many of the strike-throughs, insertions, deletions, and substitutions that Mary Shelley made by hand 
 in the Thomas copy were reflected almost exactly as corrections in her 1831 edition. You can especially see evidence of this in section 7, where in all of the other 
 editions the passage in the screenshot below is included in some form – in the Thomas copy, she crossed the whole thing out – and then in the 1831 edition, the passage 
-she struck through has been omitted.
+she struck through has been omitted. This shows a very intriguing representation of Mary Shelley's narrative-writing thought processes in her edits on the Thomas copy, and how many of those desired hand-written changes were reflected in the latest edition of the novel. 
 
 
 ![Section 7 Thomas Edit](images/frankenVVscreenshots/sec7Thomasedit.png)
