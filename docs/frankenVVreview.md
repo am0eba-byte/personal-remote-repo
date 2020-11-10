@@ -60,7 +60,9 @@ This same passage also has an example of some potentially unnecessary highlighti
 
 There are also some somewhat important areas where I think it could be made more clear where the chapter numbers vary in the sections. In areas like the one below from section 9, the two separate annotation blocks could be coalesced into one I think - as it is right now, the expression of the variation in how Mary Shelley numbered the chapters is a bit vague because of how the highlighted sections are separated.
 
+![Chapter Annotation First](images/frankenVVscreenshots/chapter-variation.png)
 
+![Chapter Annotation Second](images/frankenVVscreenshots/chapter-variation_second.png)
 
 There are also quite a few areas where the ending of the highlighted portion of text and the endpoint of the corresponding variation annotations don't match up, making it difficult to decipher where the variation points end and connect with the areas that have no change. Some examples:
 
@@ -68,12 +70,12 @@ In the screenshot below from 1818 edition section 9, according to the MS variati
 "...and particularly cularly chemistry became ^nearly  my sole ~~appli~~ became nearly my sole..." 
 The crossed out section becomes more clear in the annotations around "occupation," but at first this could confuse users. It makes for a not-so-smooth UX.
 
-*insert screenshot*
+![Cularly chemistry appli annote](images/frankenVVscreenshots/unclear-variation-endpoint_2.png)
 
 In the next screenshot, from the same edition and section, according to the MS variation annotation, the passage would read: 
 "... so full of genius and so full of genius and discrimination ~~that have been written~~ on these sub- on these subjects."
 Again, it's just a bit messy, and may confuse users.
 
-*insert screenshot*
+![So full of genius annote](images/frankenVVscreenshots/unclear-variation-endpoint.png)
 
 Although many aspects of the highlighting and variorum annotation comparisons need some work, overall I think this is a wonderful start - the website is easy to navigate, and most of the annotations and highlights seem accurate and expose very interesting comparisons for the user to read and digest!
