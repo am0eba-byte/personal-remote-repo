@@ -37,6 +37,8 @@ perception of the sailor. The 1831 edition sort of reflects a different attitude
 of education in mere passing. The tone of this detail shifts quite a bit between the two versions – and I’ve noticed many other instances where different editions reflect minor 
 tone changes like this as well.
 
+![Wholly uneducated sailor](images/frankenVVscreenshots/wholly-uneducated-sailor.png)
+
 It seems, from the Thomas Copy edition to the 1831 edition, many of the strike-throughs, insertions, deletions, and substitutions that Mary Shelley made by hand 
 in the Thomas copy were reflected almost exactly as corrections in her 1831 edition. You can especially see evidence of this in section 7, where in all of the other 
 editions the passage in the screenshot below is included in some form – in the Thomas copy, she crossed the whole thing out – and then in the 1831 edition, the passage 
