@@ -13,7 +13,9 @@ Meanwhile, in the 1831 edition, this brief description of the characters’ budd
 containing new dialogue and a much deeper read into the stranger’s character, his woes, and his deep connection & sympathies with Victor. This lengthy and revealing expansion
 of the passage from the 1818 and 1823 editions in the 1831 edition adds a whole new layer of intrigue and mystery onto readers’ perspective of the stranger.
 
-*insert screenshots*
+![Stranger Narrative Edit 1](images/frankenVVscreenshots/strangernarrativeEdit1831_1.png)
+
+![Stranger Narrative Edit 2](images/frankenVVscreenshots/strangernarrativeEdit1831_2.png)
 
 
 There were so many other interesting differences between the Thomas edition and the others, but this one from the 1831 edition was undeniably significant: 
@@ -39,14 +41,14 @@ editions the passage in the screenshot below is included in some form – in the
 she struck through has been omitted.
 
 
-*insert screenshot*
+![Section 7 Thomas Edit](images/frankenVVscreenshots/sec7Thomasedit.png)
 
 
 ### User Experience Review
 
 For starters, the overall layout and design of the Frankenstein Variorum website is very clean, simple, and easy to navigate. I personally find the aesthetic of the website's design very appealing and easy on the eyes. The only aspect of the design that could be touched up to increase readability is the color numbered circles behind the Choose Version, Choose Section, and Choose Options menus at the top of the variorum viewer. The very light tan color doesn't have enough contrast against the white background, making it a bit difficult to see the numbers inside the circles. If the color of those circles was changed to be a bit darker, that could be easily fixed. 
 
-*insert screenshot*
+
 
 There are also some areas of an indication of change like the one pictured below, where it is unclear to the user what the small dotted gray line is meant to indicate. Here, the two dots representing a change in the 1832 and the MS edition is a line above the supposed area of variation, which is quite dark, but not much variation seems to happen there. Does this mean that "Shall" is a line above the rest of the passage in the other editions here? There are a few areas where this happens.
 
