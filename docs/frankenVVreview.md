@@ -44,6 +44,34 @@ she struck through has been omitted.
 
 ### User Experience Review
 
+For starters, the overall layout and design of the Frankenstein Variorum website is very clean, simple, and easy to navigate. I personally find the aesthetic of the website's design very appealing and easy on the eyes. The only aspect of the design that could be touched up to increase readability is the color numbered circles behind the Choose Version, Choose Section, and Choose Options menus at the top of the variorum viewer. The very light tan color doesn't have enough contrast against the white background, making it a bit difficult to see the numbers inside the circles. If the color of those circles was changed to be a bit darker, that could be easily fixed. 
 
+*insert screenshot*
 
+There are also some areas of an indication of change like the one pictured below, where it is unclear to the user what the small dotted gray line is meant to indicate. Here, the two dots representing a change in the 1832 and the MS edition is a line above the supposed area of variation, which is quite dark, but not much variation seems to happen there. Does this mean that "Shall" is a line above the rest of the passage in the other editions here? There are a few areas where this happens.
 
+*insert screenshot*
+
+This same passage also has an example of some potentially unnecessary highlighting. It seems, the entire beginning of the passage is highlighted quite darkly, but upon further investigation it appears only one small area actually has some minor variation occurring. The passage is identical in all variations up until the beginning of the last sentence that is highlighted - "Continue..." in all variations except 1831, and "Continue for the present..." in 1831. Overhighlighting areas like this might confuse users, and it causes some misguided comparisons between the variations for users to experience.
+
+*insert screenshot*
+
+There are also some somewhat important areas where I think it could be made more clear where the chapter numbers vary in the sections. In areas like the one below from section 9, the two separate annotation blocks could be coalesced into one I think - as it is right now, the expression of the variation in how Mary Shelley numbered the chapters is a bit vague because of how the highlighted sections are separated.
+
+*insert screenshot*
+
+There are also quite a few areas where the ending of the highlighted portion of text and the endpoint of the corresponding variation annotations don't match up, making it difficult to decipher where the variation points end and connect with the areas that have no change. Some examples:
+
+In the screenshot below from 1818 edition section 9, according to the MS variation annotation, the passage would read like this: 
+"...and particularly cularly chemistry became ^nearly  my sole ~~appli~~ became nearly my sole..." 
+The crossed out section becomes more clear in the annotations around "occupation," but at first this could confuse users. It makes for a not-so-smooth UX.
+
+*insert screenshot*
+
+In the next screenshot, from the same edition and section, according to the MS variation annotation, the passage would read: 
+"... so full of genius and so full of genius and discrimination ~~that have been written~~ on these sub- on these subjects."
+Again, it's just a bit messy, and may confuse users.
+
+*insert screenshot*
+
+Although many aspects of the highlighting and variorum annotation comparisons need some work, overall I think this is a wonderful start - the website is easy to navigate, and most of the annotations and highlights seem accurate and expose very interesting comparisons for the user to read and digest!
