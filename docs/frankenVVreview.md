@@ -42,10 +42,17 @@ tone changes like this as well.
 It seems, from the Thomas Copy edition to the 1831 edition, many of the strike-throughs, insertions, deletions, and substitutions that Mary Shelley made by hand 
 in the Thomas copy were reflected almost exactly as corrections in her 1831 edition. You can especially see evidence of this in section 7, where in all of the other 
 editions the passage in the screenshot below is included in some form – in the Thomas copy, she crossed the whole thing out – and then in the 1831 edition, the passage 
-she struck through has been omitted. This shows a very intriguing representation of Mary Shelley's narrative-writing thought processes in her edits on the Thomas copy, and how many of those desired hand-written changes were reflected in the latest edition of the novel. 
-
+she struck through has been omitted. For some reason, Mary Shelley decided that bit about the tendency of instructors to neglect opportunities to direct their pupils to new knowledge wasn't necessary - which I found quite curious. It makes me wonder what her thought process was when she made that decision in the Thomas copy. This shows a very intriguing representation of Mary Shelley's narrative-writing thought processes in her edits on the Thomas copy, and how many of those desired hand-written changes were reflected in the latest edition of the novel. 
 
 ![Section 7 Thomas Edit](images/frankenVVscreenshots/sec7Thomasedit.png)
+
+This next bit comes from section 7 of the Thomas edition view in the variorum - and it arose some questions about how the Thomas edition of this passage changed so dramatically from previous editions, and yet was struck through entirely to be replaced by a much more brief section in the following 1831 edition. The previous editions hardly have anything in place of this major paragraph ("No youth" is all that appears for the editions prior to Thomas). In the section struck through (presumably by the hand of either Percy or Mary) the narrator explains his happy childhood, nuanced by education in multiple languages, and the deep love shared between all of his family members. She replaced this struckthrough section with a brief and emotionally dulled-down version of the same passage in 1831. It's kind of funny actually, it looks like maybe either Mary or Percy made a very blunt and concise critique of the struck-through section: just the word "bad" appears right after the passage. It reminds me of how I (gently yet sternly) scold my cat when she pukes on the foot of my bed while I'm asleep. I wonder if it was Mary who did that, reprimanding herself for getting too affectionate and flowery, or if it was Percy. 
+
+*insert screenshot*
+
+The second section of that same passage is not struck through in the Thomas edition, but the whole thing simply does not appear in any of the other versions. (Starting with "With what delight do I even now remember...") Again, the passage consisted of more expressions of affection he has with his jovial family and friends, but still this made me wonder: Did Shelley write that whole thing into only the Thomas copy just to delete it? Why would she do that? 
+
+*insert screenshot*
 
 
 ### User Experience Review
