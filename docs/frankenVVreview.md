@@ -48,11 +48,11 @@ she struck through has been omitted. For some reason, Mary Shelley decided that 
 
 This next bit comes from section 7 of the Thomas edition view in the variorum - and it arose some questions about how the Thomas edition of this passage changed so dramatically from previous editions, and yet was struck through entirely to be replaced by a much more brief section in the following 1831 edition. The previous editions hardly have anything in place of this major paragraph ("No youth" is all that appears for the editions prior to Thomas). In the section struck through (presumably by the hand of either Percy or Mary) the narrator explains his happy childhood, nuanced by education in multiple languages, and the deep love shared between all of his family members. She replaced this struckthrough section with a brief and emotionally dulled-down version of the same passage in 1831. It's kind of funny actually, it looks like maybe either Mary or Percy made a very blunt and concise critique of the struck-through section: just the word "bad" appears right after the passage. It reminds me of how I (gently yet sternly) scold my cat when she pukes on the foot of my bed while I'm asleep. I wonder if it was Mary who did that, reprimanding herself for getting too affectionate and flowery, or if it was Percy. 
 
-*insert screenshot*
+![Big Thomas Edit](images/frankenVVscreenshots/bad_thomas.png)
 
-The second section of that same passage is not struck through in the Thomas edition, but the whole thing simply does not appear in any of the other versions. (Starting with "With what delight do I even now remember...") Again, the passage consisted of more expressions of affection he has with his jovial family and friends, but still this made me wonder: Did Shelley write that whole thing into only the Thomas copy just to delete it? Why would she do that? 
+The second section of that same passage is not struck through in the Thomas edition, but the whole thing simply does not appear in any of the other versions. (Starting with "With what delight do I even now remember...") Again, the passage consisted of more expressions of affection he has with his jovial family and friends, but still this made me wonder: Did Shelley write that whole thing into only the Thomas copy just to delete it? Why would she do that? Did she not want the Victor to seem too endearing or affectionate? Maybe she was afraid that by making her male main character have such loving affections, he wouldn't seem masculine enough to meet the expectations of the audience of her day?
 
-*insert screenshot*
+![Big Thomas Cut](images/frankenVVscreenshots/thomas_bigedit.png)
 
 
 ### User Experience Review
