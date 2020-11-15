@@ -17,6 +17,13 @@ Minor in <i>Creative Writing</i>
 <i>Scholarships</i>: Nancy J. Anderson Trustee Scholarship
 <h2><b>SOFTWARE SKILLS</b></h2>
 
+ <ul>
+ <li>GitHub</li>
+ <li>PowerPoint</li>
+ <li>Word</li>
+ <li>Hypothes.is</li>
+ <li>Basic web development</li>
+ </ul>
  <b>Languages:</b>
 <ol>
  <li>HTML</li>
@@ -25,13 +32,7 @@ Minor in <i>Creative Writing</i>
  <li>TEI (Text Encoding Initiative) community markup language</li>
  <li>oXygen XML</li>
  </ol>
- <ul>
- <li>GitHub</li>
- <li>PowerPoint</li>
- <li>Word</li>
- <li>Hypothes.is</li>
- <li>Basic web development</li>
- </ul>
+
  <b>Adobe Creative software:</b>
  <ol>
   <li>Adobe Premiere Pro (beginner)</li>
