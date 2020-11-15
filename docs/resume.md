@@ -46,6 +46,8 @@ Minor in <i>Creative Writing</i>
 
 <h3><b>Sustainability Office at Pennsylvania State University Behrend Campus,</b> Erie, PA – <i>Website Design Intern</i></h3>
 <i>October 1, 2020 – PRESENT</i>
+
+Responsibilities include:
 <ul>
 <li>Working with a team of interns to create a public-facing website for Penn State Behrend’s Wintergreen Gorge</li>
  <li>Utilizing Penn State’s WordPress to manifest the website’s demo layout</li>
