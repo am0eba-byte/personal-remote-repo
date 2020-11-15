@@ -19,19 +19,41 @@ Minor in <i>Creative Writing</i>
 </ul>
 <i>Scholarships</i>: Nancy J. Anderson Trustee Scholarship
 <h2><b>SOFTWARE SKILLS</b></h2>
-<ul>
- 	<li>oXygen XML (beginner)</li>
- 	<li>GitHub and markdown (beginner)</li>
- 	<li>PowerPoint</li>
- 	<li>Word</li>
-<li>Hypothes.is (beginner)</li>
- 	<li>General Web Development (beginner)</li>
- 	<li>Adobe Creative softwares:</li>
- 	<li>- Adobe Premiere Pro (beginner)</li>
- 	
-</ul>
+
+ <b>Languages:</b>
+<ol>
+ <li>HTML</li>
+ <li>Markdown .md</li>
+ <li>.CSS webstyling</li>
+ <li>TEI (Text Encoding Initiative) community markup language</li>
+ <li>oXygen XML</li>
+ </ol>
+ <ul>
+ <li>GitHub</li>
+ <li>PowerPoint</li>
+ <li>Word</li>
+ <li>Hypothes.is</li>
+ <li>Basic web development</li>
+ </ul>
+ <li><b>Adobe Creative software:</b></li>
+ <ol>
+  <li>Adobe Premiere Pro (beginner)</li>
+  <li>Adobe Photoshop (novice)</li>
+  <li>Adobe After Effects (beginner)</li>
+  <li>Adobe Illustrator (beginner)</li>
+ </ol> 	
+
 &nbsp;
 <h2><b>EXPERIENCE</b></h2>
+
+<h3><b>Sustainability Office at Pennsylvania State University Behrend Campus,</b> Erie, PA – <i>Website Design Intern</i></h3>
+<i>October 1, 2020 – PRESENT</i>
+<ul>
+<li>Working with a team of interns to create a public-facing website for Penn State Behrend’s Wintergreen Gorge</li>
+ <li>Utilizing Penn State’s WordPress to manifest the website’s demo layout</li>
+<li>Writing .css webstyling code to break beyond the bounds of WordPress’s limited website styling options to enhance the website’s appeal</li>
+<li>Reviewing and adapting pre-determined textual content for the website to fit with the Sustainability Office’s vision</li>
+</ul>
 <h3><b>Arundel Wine Cellars &amp; Brewing Co., </b>North East,Pa — <i>Kitchen Staff/Bar Staff</i></h3>
 <i>May 2019 - PRESENT</i>
 
