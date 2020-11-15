@@ -32,7 +32,7 @@ Minor in <i>Creative Writing</i>
  <li>Hypothes.is</li>
  <li>Basic web development</li>
  </ul>
- <li><b>Adobe Creative software:</b></li>
+ <b>Adobe Creative software:</b>
  <ol>
   <li>Adobe Premiere Pro (beginner)</li>
   <li>Adobe Photoshop (novice)</li>
