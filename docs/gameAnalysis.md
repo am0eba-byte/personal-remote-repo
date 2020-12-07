@@ -1,18 +1,20 @@
 # "Sand: A Superfluous Game" Analysis - First Notes
 
-**1. Look and listen in the game: What features (or assets) are helping to create an illusion of exploring a world? How simple or complex are the graphics and media?**
+*Sand* betrays its self-description of being superfluous - it gives you just the right amount of world exploration, intriguing storyline, and infinitely fun mechanics - but *not enough game.* This is no fault of the game designers of course, because the game simply isn't finished - there are only a couple of (VERY fun and exciting) missions currently written into the game, and the last mission doesn't give players any sort of conclusion whatsoever. As I dive into this review, I will be furthering my angsty and lustful desire to get my hands on the rest of this lovely little game.
+
+**World-Building Graphics and Media**
 
 "Sand" has sooooo much potential to delve deeper into the exploratory features of the virtual apocalyptic dystopia! Even in the (so far) limited range of the map, the player is sucked into this sparse, mutated and enthralling world of post-apocalyptic Alaska. (which, by the way, is hilarious that they decided on Alaska as the setting of this desert wasteland!) Not only do you get to rebuild and create your own home base with tons of unlockable building tools, livestock, and technology - you can go off from the limits of your base square and explore into nearby units, whether they are empty and full of "skellies" or mission-based neighboring towns or inhabited places. The graphics, from a superficial standpoint, are very basic - but it makes a great 8-bit aesthetic of the game, and the simplicity of the graphics do not at all reflect the complexity of the game mechanics. The survival features of exploring the wasteland, scavenging for resources, making trades by doing tasks for neighbors, and especially the enemies that either periodically raid your base or the ones you encounter whilst exploring or completing missions is extremely intriguing and addicting. 
 
-**2. How simple or complex are the settings in the game? How far can you explore and what makes the settings distinctive?**
+**Settings and Ability to Manipulate Them**
 
 The settings, it terms of how much the player can manipulate the surroundings, are super complex. There's so much you can do with ranching, farming, and especially technology that is actually mind-blowing for how simple this game appears at first. You can ride llamas, build energy-producing transformers and other means of energy production to not only produce goods, but also for self-defense (the automated gun turrets and electric-powered gate mechanisms are WICKED). You can literally personalize your whole base, and it's quite easy to learn by going through the missions and visiting neighboring locations. I also loved how you could buy a "player upgrades" asset that would allow you to upgrade your player's heath, stamina, "canteen" for traveling father distances, and so much more. You can even design the look of your own character with a Mirror and Dresser!
 
-**3. What kind(s) of character(s) are you invited to control? Are you invited to be multiple characters? Or just one character type?**
+**Player and Non-Player Character Control**
 
 You only really "control" yourself, in terms of mobility, but as you build and expand your base you are able to build more houses (or anything, really) and build beds so that more people come to work on your base. You can see how many people are living on your base on the left inventory bar. You can then build a job board, through which you can assign your "minions" different jobs to do on your base so that they will farm, ranch, clean, and even guard your base for you. So in that way, you can control them. You can also ride a llama around which makes travel much faster! And, as you progress in the story and complete missions, you can collect travelling buddies that will come with you to stay at your base, and unlike the other villiagers at your base, you can right-click on them and they will join you to travel into other plot units outside of your home! So far, they only have so many missions implemented, and by the time I finished all of the missions you accrued two traveling-mates. Also, you get a cute doggo that follows you around and barks at enemies who are attacking you, which is a super sweet touch. :)
 
-**4. How do you get to know the character(s) you are playing? What details make them distinctive, quirky, memorable, etc?**
+**Narrative-Driver: E.D.I.E.**
 
 As the game progresses and you complete missions, your character and the characters you interact with engage in riveting dialogue. First, you meet E.D.I.E., which is a cube AI which crash-landed from space onto some poor guy - and E.D.I.E. is hilarious. He keeps having these little slip-ups as it talks to you about its mission to save the world, in which you must be the primary perpetuator (only since E.D.I.E. lacks mobility structures), but quite often it will refer to you as it's minion. The player responds in this dialogue, skeptically noting on E.D.I.E.'s sketchy verbal accidents while also taking orders from it. 
 
@@ -21,20 +23,20 @@ As the game progresses and you complete missions, your character and the charact
 ![e d i e slip-up lol](https://user-images.githubusercontent.com/70165410/100650174-842e0080-3311-11eb-970c-8e3ee8d8792c.png)
 
 
-**5. What kinds of interactions do you have with NPC characters?**
+**NPC Characters**
 
 You have the mission NPC characters, which engage you in riveting and quirky dialogue and give you tasks for rewards, you have your NPC camp-mates (a.k.a. slaves/minions as E.D.I.E. calls them) which you can direct to do various jobs on your home base, you have NPCs that will accompany you off your home base and help you pillage/raid other map units, those of which you have to acquire through completing a mission, and then you have enemies - which can come in the form of roaches, crab-like things, skellies, snakes, or raiders. They will periodically come in mobs to raid your home base unless you and your camp-mates kill them, and they also appear in non-location wasteland units - increasing in strength and difficulty to defeat as you get further away from your home base.
 
-**6. How are you challenged as a game player in this game? What are you being asked to investigate, where do you get stuck, and how do you make progress in the game?**
+**Challenges and Missions**
 
 The biggest challenged are basically creating enough things to build up your inventory stocks more and more to upgrade yourself and your base, which can ultimately help you complete missions faster and easier as well. A huge struggle at the beginning of the game for me was, whenever I was out exploring and I found all kinds of neat raw materials to bring back home, I was attacked by horrendous monsters and killed. Once you die outside of your home, you are sent back home and all of your hard-earned materials you've found while out exploring have vanished! D: 
 The missions are SO fun because you basically get to meet new and interesting characters, and complete more and more challenging tasks for them in order to get to new places in the game map, and to acquire more raw materials (or "scrap", which is currency in Sand).
 
-**7. What kinds of objects do you interact with in the game? Do you pick up written messages, do you ever need to consume food in the game, do you pick up functional things you need to get other things work?**
+**Object Interactions and Building**
 
 This game reminds me a lot of Minecraft in many ways - you harvest various raw materials to make more buildings, more production technology, and ultimately anything else to make your homebase more self-sufficient. Once you build certain objects, some give you the option of interacting with them - like for Ranching, you can interact with Chickens by hugging them and they'll produce an egg, which gives you meat to sell (after you hug it enough to make an egg, the interaction changes to "kick" which is kind of awful and hilarious) - you can mount Llamas to travel to places outside of your home base much faster, you and your camp-mates can heal using the Veggie Pot (which requires Veggies to be used - you must farm veggies using Veggie Plots made of dirt) after defeating raiding miscreants in battle, and of course you can craft various weapons and tools which appear in your inventory to use either in battle or in everyday chores. In short, you can interact with almost anything you build that isn't just a structure-building material. You can also create machines which churn out Energy by harnessing either Oil, sunlight, or the wind (yes there's weather and day/night times in the game which is rad), and once you have energy you can create Transformers and Relays which can power switch-operated mechanisms to do all kinds of neat-o things.
 
-**8. Where (if ever) do you see the game comment on itself in a meta way as a fictional, constructed system (as a game)?**
+**Meta-References; Breaking the 4th Wall**
 
 There are lots of funny little references to "He Who Codes" sort of as a god-like figure, who controls the will of the people of this wasteland.
 ![he_who_codes](https://user-images.githubusercontent.com/70165410/100616453-1ec51a00-32e7-11eb-8d19-f13c0fb87b21.png)
@@ -47,7 +49,7 @@ There are also lots of funny references to the human-operated controls within ch
 ![tapping_E](https://user-images.githubusercontent.com/70165410/100616664-664ba600-32e7-11eb-8897-298291533639.png)
 
 
-**9. Where and how do you see the game respond to or comment on our reality? Or what cultural issues from our world do you see reflected in this game?**
+**Game Comments on Real-World Reality**
 
 Oh man, the whole setting and context of the gameplay is based on a dystopian future of our world! You're literally a survivor of an Alaskan apocalypse. There are so many bits of dark humor sewed into the dialogue of the characters which adorably yet also eerily reflect real people and human behavior. One glaring metaphor I noticed was a bit of dialogue between the Player (me) and Mayor Pete in Anchor Rage, as Mayor Pete politicks about his political agenda to keep all the scary non-humans out of the town with a **hyuge** wall:
 ![is_this_a_trump_joke](https://user-images.githubusercontent.com/70165410/100648802-78413f00-330f-11eb-982f-a61eac6a67a5.png)
