@@ -56,7 +56,7 @@ Oh man, the whole setting and context of the gameplay is based on a dystopian fu
  I hate to imbue works of art with political balogna, but I just CAN'T be the only one who feels that this is a reference to The Orange Man Who Shant Be Named. 
  
  
- #"The Things We Lost in the Flood" Analysis
+ # "The Things We Lost in the Flood" Analysis
  
  Like *Sand,* *The Things We Lost in the Flood* has an 8-bit, 2D style of graphics - but unlike *Sand,* you can only move from left to right across the screen instead of up, down, left or right from a birds-eye view of the world. When the game starts, you get an explanation on the mysterious narrative of the game - there was a flood. Your playable character appears on an island, and you have to drag a busted-up boat into the sea of flood waters to begin your journey.
  
