@@ -1,4 +1,6 @@
-# "Sand: A Superfluous Game" Analysis - First Notes
+# itch.io Games Analyses
+
+## Game 1: "Sand: A Superfluous Game" Analysis - First Notes
 
 *Sand* betrays its self-description of being superfluous - it gives you just the right amount of world exploration, intriguing storyline, and infinitely fun mechanics - but *not enough game.* This is no fault of the game designers of course, because the game simply isn't finished - there are only a couple of (VERY fun and exciting) missions currently written into the game, and the last mission doesn't give players any sort of conclusion whatsoever. As I dive into this review, I will be furthering my angsty and lustful desire to get my hands on the rest of this lovely little game.
 
@@ -56,8 +58,11 @@ Oh man, the whole setting and context of the gameplay is based on a dystopian fu
  I hate to imbue works of art with political balogna, but I just CAN'T be the only one who feels that this is a reference to The Orange Man Who Shant Be Named. 
  
  
- # "The Things We Lost in the Flood" Analysis
+ ## Game 2: "The Things We Lost in the Flood" Analysis
  
  Like *Sand,* *The Things We Lost in the Flood* has an 8-bit, 2D style of graphics - but unlike *Sand,* you can only move from left to right across the screen instead of up, down, left or right from a birds-eye view of the world. When the game starts, you get an explanation on the mysterious narrative of the game - there was a flood. Your playable character appears on an island, and you have to drag a busted-up boat into the sea of flood waters to begin your journey.
  
+ 
+ 
  This is such an interesting game narrative, because it's not like *Sand* where there are interactable CPU characters that talk to you and either tell you directly what's going on, or they imply it - in this game, you're forced to figure it out for yourself or wonder. Instead of interactable CPUs, as you journey across the flooded areas you find messages in bottles that are apparently written by other real players playing the game - some of the messages give you hints, or they ask the same questions that you're wondering about yourself. It's a really neat concept, I think - and it fits exceptionally well with the whole wreckage-by-flood theme of the game, with the messages giving you reminders that you're never truly alone. 
+ 
