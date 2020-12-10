@@ -57,6 +57,8 @@ Oh man, the whole setting and context of the gameplay is based on a dystopian fu
 ![is_this_a_trump_joke](https://user-images.githubusercontent.com/70165410/100648802-78413f00-330f-11eb-982f-a61eac6a67a5.png)
  I hate to imbue works of art with political balogna, but I just CAN'T be the only one who feels that this is a reference to The Orange Man Who Shant Be Named. 
  
+ Overall, *Sand* is a marvellous game. It successfully embarks the player in a dystopian-world feel, with great aspects of player control and personalization and an entertaining and compelling game story narrative. I anxiously await the release of more missions to further the story and the already-wonderful mechanics of this exciting little game.
+ 
  
  ## Game 2: "The Things We Lost in the Flood" Analysis
  
@@ -79,7 +81,7 @@ Naturally, my response:
 As you paddle along in your slow-moving torn-up boat, you find items floating in the waters that you can pick up (other than messages in bottles), and they are upgrade items that you attach to your boat to make your boat move quicker. This aspect gives the player some feelings of hope for the future, as you move slowly through the flooded city. Sometimes, weird flying robots zoom across the sky, and once in a while they'll drop these strange items that you can pick up - I haven't quite figured out what those things are for, but they must be significant somehow. There's a lot of mystery and puzzle-solving to this game.
 
 ![radio](https://user-images.githubusercontent.com/70165410/101650926-7ad81e80-3a0a-11eb-971d-1218e0938cb2.png)
-*Here, the gun-shaped thing on the roof of this church turns out to be a radio that starts a new empty channel radio crackle sound once attached to the boat. Surprisingly, after a while, slow and beautifully melancholic guitar playing comes form the radio - but it eventually stops and is replaced by the radio crackle again. It adds a weird layer of loneliness and strange feelings of hope.
+*Here, the gun-shaped thing on the roof of this church turns out to be a radio that starts a new empty channel radio crackle sound once attached to the boat. Surprisingly, after a while, slow and beautifully melancholic guitar playing comes form the radio - but it eventually stops and is replaced by the radio crackle again. It adds a weird layer of loneliness and strange feelings of hope.*
 
 There are also these weird spider-looking bots that appear on buildings every once in a while, which you can destroy to pick up an item. It's a total mystery as to why those bots are there, and that confusion is affirmed when you pick up bottles from other players writing about that same question: "What the heck are these bots?!?" That's the sort of fun part about this game, you feel your confusion is shared and it somehow makes how lost you feel seem a little less jarring, because you see that other people are feeling the same way via bottle messages.
 
@@ -88,6 +90,6 @@ There are also these weird spider-looking bots that appear on buildings every on
 
 Eventually, you get to another land form where there is a strange door that looks like it should go to a parallel universe - when you interact with it, the screen fades and you end up right back at the beginning, on the island where you started the game, with your boat and all of its upgrades sitting behind the same rock where you first found it. I can't quite wrap my head around what this means - this is certainly a game for people with a lot of patience. 
 
-Overall, I give this game a "cool concept but waiting is not my thing" rating. You come across lots of clues on billboards in the water, but they're sort of vague - and a lot of the time, nothing happens when you follow the prompts. And if something does happen, it's not obvious enough for the player to feel like they've solved anything - so there's a definite lack of player gratification in this game. The settings are gorgeous, though - and the messages from other players is absolutely my favorite part of this game.
+Overall, I give this game a "cool concept but waiting is not my thing" rating. You come across lots of clues on billboards in the water, but they're sort of vague - and a lot of the time, nothing happens when you follow the prompts. And if something does happen, it's not obvious enough for the player to feel like they've solved anything - so there's a definite lack of player gratification in this game. The graphics are simple yet gorgeous, though - the gentle sound effects of rain and water gives this game a comforting and yet melancholic feel of a post-apocalyptic and mysterious world. The messages from other players is absolutely my favorite part of this game, as they give the game the necessary element of intelligent and quirky player interaction.
 
  
