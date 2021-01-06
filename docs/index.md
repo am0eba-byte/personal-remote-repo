@@ -1,14 +1,7 @@
 # Mia's Digital Git-Portfolio
 ### <i> Salutations! </i>  Welcome to the humble home page of my personal website.
 
-**Navigate my silly little site:**
 
-* [my Digital Projects page](portfolio.md)
-* [my Resume](resume.md)
-* [my Web Development Reflection/Comparison](reflection.md)
-* [Corpus Analysis](corpusanalysis.md)
-* [Frankenstein Variorum Review](frankenVVreview.md)
-* [Game Analysis](gameAnalysis.md)
 
 ## A little about me:
 I am currently a Digital Media, Arts, and Technology major at Penn State. Although I am relatively new to film production and photoshop software, capturing images and video and transforming them into art is one of my passions.
@@ -22,7 +15,6 @@ One day, I hope to make contributions in some artistic or creative form to envir
 <i> –Mia Borgia </i>
 
 
-![ProfessionalProfile](images/profile2.JPG)
 
 
 ### Some photos that capture a little bit of what I'm all about:
