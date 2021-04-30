@@ -1,0 +1,430 @@
+/* GENERAL STYLING */
+
+body {
+    background-image: url("images/blue_music_bckgrnd.jpg");
+    background-size: cover;
+    color: white;
+    font-size: larger;
+    font-family: 'New Tegomin', serif;
+}
+
+body.contain {
+    background-image: url("images/blue_music_bckgrnd.jpg");
+    background-size: contain;
+    color: white;
+    font-size: larger;
+    font-family: 'New Tegomin', serif;
+
+}
+
+header {
+    text-align: center;
+}
+
+div.navbar {
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+a.navLink {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 1.2em;
+    color: lime;
+}
+
+footer {
+    display: flex;
+}
+
+p.foot {
+    flex: 1;
+    text-align: center;
+}
+
+p.foot a {
+    color: lime;
+}
+
+a {
+    color: lime;
+}
+
+
+/* HOMEPAGE STYLING */
+
+section.index {
+    padding-top: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+div.homeImage {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+img#bluesArt {
+    width: 50vw;
+    object-fit:contain;
+}
+
+div.homePara {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+div.cytoText h3{
+    text-align:center;
+}
+
+h2.index {
+    text-indent: 2em;
+}
+
+div.research {
+    padding-left: 3%;
+    padding-right:3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+p.research {
+    padding-bottom: 1%;
+}
+
+li.research {
+    line-height: 2em;
+}
+
+
+
+
+/* 404 ERROR PAGE STYLING */
+
+section.error {
+    padding-top: 20px;
+}
+
+h3.errorPara {
+    text-align: center;
+}
+
+div.error {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+img#error {
+    flex: 1;
+    width: 50%;
+}
+
+
+/* ABOUT PAGE STYLING */
+
+section.about {
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+
+div.bios {
+    display: flex;
+}
+div.Nicky {
+    flex: 1
+
+}
+img#Nickpic {
+    width: 40%;
+    border-radius: 25px;
+}
+
+div.Katherine {
+    flex: 1;
+}
+
+div.Mia {
+    flex: 1;
+}
+img#miaPic {
+    width: 56%;
+    border-radius: 25px;
+}
+
+
+
+
+
+
+/* SOURCE PAGE */
+
+
+section.source {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+section.source h2 {
+    text-align: center;
+}
+
+div.sourcetop {
+   
+}
+
+div.noteBckgrnd {
+    background-image: url(images/stencil_artist.jpg);
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius:30px;
+    opacity: .7;
+    background-position: 10% 10%
+}
+
+p.source {
+
+}
+
+p.note {
+    padding-right: 40%
+}
+
+p.source a {
+    color: lime;
+}
+
+div.sourceimg {
+    /*display:flex;*/
+    justify-content: right;
+    display: flex;
+    margin: auto;
+
+}
+
+img#source {
+    width: 50%;
+    border-radius: 35px;
+    opacity: .75;
+    flex-shrink: 1;
+}
+
+div.sourceSVG {
+    background-color: black;
+border-radius: 25px;
+margin: 1%;
+opacity:.75;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+div.sourceSVG h2 {
+    font-size:1.5em;
+    padding-top: 1%;
+}
+
+
+
+
+                        /* ANALYSIS PAGE */
+
+
+section.analysis {
+    margin: 10px;
+}
+
+div.analysis {
+    margin: 15px;
+}
+
+h2.analysis {
+    text-align: center;
+}
+
+div.imgTextWrap {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+
+}
+
+div.text {
+    display:flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    flex:2;
+}
+
+div.analysisImg {
+    /*display:flex;*/
+    justify-content: right;
+    position: relative;
+    flex: 2;
+    display: contents;
+}
+
+img.analyimg {
+    width: 40%;
+    max-height: 65vh;
+    border-radius: 30px;
+    padding-left: 10px;
+}
+
+div.method {
+    margin: 15px;
+}
+
+h3.method {
+    text-indent: 3em;
+    font-weight: bold;
+}
+
+div.analysisText {
+    flex: 1;
+    position: relative;
+}
+
+p.method {
+    text-indent: 2em;
+
+}
+
+ul.methodInfo {
+
+}
+
+
+
+            /* GRAPHS STYLING */
+
+embed.decGraph {
+    width: 20vw;
+    object-fit:contain;
+}
+
+embed.collec {
+    width:40vw;
+}
+
+div.spacySVG {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;;
+    /*align-items: center;*/
+    margin:auto;
+}
+
+figure.ent {
+    width:50vw;
+}
+
+div.decSect {
+    display:flex;
+    flex-direction:column;
+   justify-content: space-around;
+    align-items: center;
+    /*margin:auto;*/
+}
+
+div.row {
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-around;
+    /*padding-right: 5%;
+    padding-left:5%;*/
+    padding-top:1%;
+    padding-bottom:1%;
+}
+
+div.row figure {
+    margin:auto;
+}
+
+figcaption {
+    text-align:center;
+}
+
+figcaption a {
+    text-decoration:none;
+}
+
+div.graphDesc p {
+    text-indent: 2em;
+}
+
+
+
+                    /* CYTOSCAPE */
+               
+ #cy {
+     width: 65vw;
+     height:100vh;
+     position:absolute;
+     /*background-color:white;*/
+     display:flex;
+     margin:auto;
+     border-style:double;
+     
+ }
+ 
+ h4.cytoTitle {
+     text-align:center;
+ }
+
+div.graphics {
+    display:flex;
+   
+    height:100vh;
+    justify-content:center;
+}
+
+
+#cy2 {
+    width: 65vw;
+     height:100vh;
+     position:absolute;
+     /*background-color:white;*/
+     display:flex;
+     margin:auto;
+     border-style:double;
+     
+}
+
+
+div.networkDesc p{
+    text-indent: 2em;
+}
+
+span.artists {
+    color:aqua;
+}
+
+span.songwrit {
+    color:lightpink
+}
+
+span.songs {
+    color:red;
+}
+
+
+
+

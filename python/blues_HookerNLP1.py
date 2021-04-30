@@ -4,7 +4,7 @@ import spacy
 
 nlp = spacy.load('en_core_web_sm')
 
-hookerWordList = open('JLHooker_Words.txt', 'r')
+hookerWordList = open('JLHooker_Words_ebb.txt', 'r')
 words = hookerWordList.readlines()
 wordstrings = str(words)
 
@@ -18,4 +18,4 @@ hookerWordList = nlp(wordstrings)
 for token in hookerWordList:
     print(token.text, "---->", token.pos_, "::", token.lemma_)
 
-    #mia: not sure why there's a \n after all of the words..? 
+    #mia: not sure why there's a \n after all of the words..?
